@@ -1,2 +1,2 @@
 # Demo
-This repo for git and github
+This class totally depend on git and github concept.
